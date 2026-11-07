@@ -1,0 +1,23 @@
+{
+    "id": 4284013,
+    "name": "Nine Circles",
+    "author": "Zobros",
+    "creators": ["Zobros"],
+    "verifier": "ZAYV",
+    "verification": "none",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ick567",
+            "link": "https://youtu.be/RWF3Ij6hE80",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SerenityGD",
+            "link": "none",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
