@@ -1,0 +1,17 @@
+{
+    "id": 44062068,
+    "name": "Future Funk",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "ZAYV",
+    "verification": "none",
+    "percentToQualify": 70,
+    "records": [
+        {
+            "user": "SerenityGD",
+            "link": "https://youtu.be/V5i7a1Qw_-8",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
