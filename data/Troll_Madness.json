@@ -7,5 +7,11 @@
     "verification": "none",
     "percentToQualify": "56",
     "records": [
+        {
+            "user": "SerenityGD",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
