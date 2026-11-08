@@ -5,19 +5,13 @@
     "creators": ["Zobros"],
     "verifier": "ZAYV",
     "verification": "none",
-    "percentToQualify": "100",
+    "percentToQualify": "56",
     "records": [
         {
             "user": "ick567",
             "link": "https://youtu.be/RWF3Ij6hE80",
             "percent": 100,
             "hz": 60
-        },
-        {
-            "user": "SerenityGD",
-            "link": "none",
-            "percent": 100,
-            "hz": 480
         }
     ]
 }
