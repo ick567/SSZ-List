@@ -78,7 +78,12 @@ export async function fetchEditors() {
 }
 
 export async function fetchLeaderboard() {
-    const list = await fetchList();
+    const [regularList, platformerList] = await Promise.all([
+    fetchList(),
+    fetchPlatformerList(),
+]);
+
+const list = [...(regularList || []), ...(platformerList || [])];
 
     const scoreMap = {};
     const errs = [];
