@@ -1,0 +1,23 @@
+{
+    "id": 114532138,
+    "name": "VeritY",
+    "author": "Serponge",
+    "creators": ["Serponge"],
+    "verifier": "SerenityGD",
+    "verification": "none",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ZAYV",
+            "link": "none",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "ick567",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
