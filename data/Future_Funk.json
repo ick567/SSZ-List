@@ -3,15 +3,15 @@
     "name": "Future Funk",
     "author": "neigefeu",
     "creators": ["neigefeu"],
-    "verifier": "ZAYV",
+    "verifier": "SerenityGD",
     "verification": "none",
     "percentToQualify": 70,
     "records": [
         {
-            "user": "SerenityGD",
-            "link": "https://youtu.be/V5i7a1Qw_-8",
+            "user": "ZAYV",
+            "link": "none",
             "percent": 100,
-            "hz": 60
+            "hz": 90
         }
     ]
 }
