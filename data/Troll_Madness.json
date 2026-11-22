@@ -3,15 +3,15 @@
     "name": "Troll Madness",
     "author": "zyphur",
     "creators": ["zyphur"],
-    "verifier": "ZAYV",
+    "verifier": "SerenityGD",
     "verification": "none",
     "percentToQualify": "56",
     "records": [
         {
-            "user": "SerenityGD",
+            "user": "ZAYV",
             "link": "none",
             "percent": 100,
-            "hz": 60
+            "hz": 90
         }
     ]
 }
