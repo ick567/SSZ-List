@@ -1,0 +1,23 @@
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "Molteyorc",
+    "creators": ["Molteyorc"],
+    "verifier": "ick567",
+    "verification": "https://youtu.be/RWF3Ij6hE80",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ZAYV",
+            "link": "none",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "SenerityGD",
+            "link": "https://youtu.be/NQKC9mrn94I",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
